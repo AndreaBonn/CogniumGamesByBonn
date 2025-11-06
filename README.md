@@ -2,11 +2,11 @@
 
 <div align="center">
 
-![Cognium Games Banner](../icon-512.png)
+![Cognium Games Banner](icon-512.png)
 
 **Infiltrati nel neon: giochi di ruolo cyberpunk dove vuoi, quando vuoi.**
 
-[🎮 **GIOCA ORA**](https://board-games-by-bonn.netlify.app/) | [📱 Installa l'App](#-installazione-come-app)
+[🎮 **GIOCA ORA**](https://board-games-by-bonn.netlify.app/)    |    [📱 Installa l'App](#-installazione-come-app)
 
 ---
 
@@ -29,7 +29,7 @@ Ma sotto la superficie scintillante si nasconde un'oscura verità: la **Macchina
 ### 🌫️ Nebbie di Syntrael
 **Local Role-Playing Game | 4-16 Giocatori**
 
-<img src="../IngegneriCorrottiSyntrael.png" width="600" alt="Nebbie di Syntrael">
+<img src="IngegneriCorrottiSyntrael.png" width="600" alt="Nebbie di Syntrael">
 
 Un gioco di deduzione sociale dove dovrai scoprire chi tra i cittadini è un **Ingegnere Corrotto** al servizio della Macchina-Madre.
 
@@ -76,7 +76,7 @@ Un gioco di deduzione sociale dove dovrai scoprire chi tra i cittadini è un **I
 ### ⚡ Glitch Mind
 **Party Game - Deduzione | 4-12 Giocatori**
 
-<img src="../GlitchMind.png" width="600" alt="Glitch Mind">
+<img src="GlitchMind.png" width="600" alt="Glitch Mind">
 
 Un gioco di parole e deduzione dove dovrai scoprire chi ha ricevuto dati corrotti dalla Rete Neurale.
 
