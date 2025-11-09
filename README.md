@@ -80,15 +80,6 @@ Un gioco di deduzione sociale dove dovrai scoprire chi tra i cittadini è un **I
 
 Un gioco di parole e deduzione dove dovrai scoprire chi ha ricevuto dati corrotti dalla Rete Neurale.
 
----
-
-### 🎲 NeonDM
-**DM Tool - Campaign Manager | Strumento per Dungeon Master**
-
-<img src="NeonDM_background.png" width="600" alt="NeonDM">
-
-Il tuo centro di comando cyberpunk per gestire campagne di gioco di ruolo. Organizza personaggi, luoghi, fazioni e sessioni con un'interfaccia visivamente immersiva.
-
 #### 🎯 Come si Gioca
 
 **La Missione:**
@@ -129,6 +120,13 @@ Il tuo centro di comando cyberpunk per gestire campagne di gioco di ruolo. Organ
 - ✅ Bluffare e mentire
 - ✅ Creare false piste
 - ✅ Strategie psicologiche
+
+---
+
+### 🎲 NeonDM
+**DM Tool - Campaign Manager | Strumento per Dungeon Master**
+
+Il tuo centro di comando cyberpunk per gestire campagne di gioco di ruolo. Organizza personaggi, luoghi, fazioni e sessioni con un'interfaccia visivamente immersiva.
 
 ---
 
