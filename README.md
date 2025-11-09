@@ -80,6 +80,15 @@ Un gioco di deduzione sociale dove dovrai scoprire chi tra i cittadini è un **I
 
 Un gioco di parole e deduzione dove dovrai scoprire chi ha ricevuto dati corrotti dalla Rete Neurale.
 
+---
+
+### 🎲 NeonDM
+**DM Tool - Campaign Manager | Strumento per Dungeon Master**
+
+<img src="NeonDM_background.png" width="600" alt="NeonDM">
+
+Il tuo centro di comando cyberpunk per gestire campagne di gioco di ruolo. Organizza personaggi, luoghi, fazioni e sessioni con un'interfaccia visivamente immersiva.
+
 #### 🎯 Come si Gioca
 
 **La Missione:**
@@ -183,6 +192,59 @@ Cognium Games è una **Progressive Web App (PWA)** - puoi installarla sul tuo di
 
 ---
 
+### Per NeonDM
+
+**Setup Ideale:**
+- 🎭 Perfetto per campagne a medio-lungo termine (10+ sessioni)
+- 💻 Un dispositivo per il DM (desktop o tablet consigliato)
+- 📝 Preparazione pre-sessione e documentazione post-sessione
+- ⏱️ Risparmia tempo con strumenti di generazione rapida
+
+**Consigli Strategici:**
+- **Preparazione**: Usa il sistema di note per pianificare sessioni future
+- **Durante la Sessione**: Tieni aperta la dashboard per riferimenti rapidi
+- **Post-Sessione**: Documenta eventi e cliffhanger mentre sono freschi
+- **Organizzazione**: Usa i collegamenti tra elementi (es. NPC → Fazione → Luogo)
+
+**Funzionalità Chiave:**
+
+#### 📋 Gestione Campagne
+- Crea e gestisci multiple campagne
+- Dashboard con statistiche e overview
+- Salvataggio automatico locale (privacy-first)
+
+#### 👥 Personaggi
+- Traccia Player Characters (PC) e Non-Player Characters (NPC)
+- Campi personalizzabili: nome, ruolo, tipo, descrizione
+- Visualizzazione organizzata con icone distintive
+
+#### 🏙️ Luoghi
+- Organizza location per tipo: Distretto, Edificio, Strada, Sotterraneo, Virtuale
+- Traccia chi controlla ogni luogo
+- Descrizioni dettagliate per ambientazioni immersive
+
+#### ⚙️ Fazioni
+- Gestisci organizzazioni: Corporazioni, Gang, Governo, Underground, Culti, Nomadi
+- Traccia leader e relazioni di potere
+- Colori distintivi per identificazione rapida
+
+#### 📅 Sessioni
+- Documenta ogni sessione con numerazione automatica
+- Campi: data, obiettivi, riassunto, cliffhanger
+- Timeline cronologica delle tue avventure
+
+#### 📝 Note
+- Sistema di appunti flessibile
+- Perfetto per idee, riferimenti, segreti
+- Anteprima e modalità lettura completa
+
+#### 🎲 Strumenti Rapidi
+- **Tira Dadi**: Parser intelligente (es: 2d6+3, 1d20, 3d10-2)
+- **Genera NPC**: Creazione casuale di personaggi con nome, ruolo e tratto distintivo
+- Perfetti per improvvisazione durante le sessioni
+
+---
+
 ## 🎨 Tecnologia
 
 Cognium Games è costruito con tecnologie web moderne per garantire la migliore esperienza:
@@ -207,10 +269,10 @@ Cognium Games è costruito con tecnologie web moderne per garantire la migliore 
 Nessun acquisto in-app, nessun abbonamento. Solo gioco puro.
 
 ### 🔒 Privacy Garantita
-Non raccogliamo dati personali. Tutto rimane sul tuo dispositivo.
+Non raccogliamo dati personali. Tutto rimane sul tuo dispositivo. NeonDM salva le tue campagne localmente nel browser.
 
 ### 📴 Offline Ready
-Dopo la prima visita, puoi giocare anche senza connessione internet.
+Dopo la prima visita, puoi giocare anche senza connessione internet. Perfetto per sessioni in luoghi senza WiFi.
 
 ### 🎨 Design Immersivo
 Grafica cyberpunk curata, animazioni fluide, esperienza coinvolgente.
@@ -251,10 +313,10 @@ A: No! Basta aprire il link e iniziare a giocare.
 A: Sì, dopo la prima visita puoi giocare senza internet.
 
 **Q: Quanti dispositivi servono?**  
-A: Uno solo! Si passa il dispositivo tra i giocatori per vedere i ruoli.
+A: Per Nebbie di Syntrael e Glitch Mind: uno solo! Si passa il dispositivo tra i giocatori. Per NeonDM: uno per il Dungeon Master.
 
 **Q: Posso giocare da solo?**  
-A: No, sono giochi sociali che richiedono almeno 4 giocatori.
+A: Nebbie di Syntrael e Glitch Mind sono giochi sociali che richiedono almeno 4 giocatori. NeonDM è uno strumento per DM utilizzabile individualmente.
 
 **Q: È disponibile in altre lingue?**  
 A: Attualmente solo in italiano, ma altre lingue potrebbero arrivare!
@@ -263,7 +325,13 @@ A: Attualmente solo in italiano, ma altre lingue potrebbero arrivare!
 A: Assolutamente! Scrivimi su [andreabonacci95@protonmail.com](mailto:andreabonacci95@protonmail.com).
 
 **Q: È sicuro per bambini?**  
-A: Sì, i giochi sono adatti a tutte le età.
+A: Sì, i giochi sono adatti a tutte le età. L'ambientazione cyberpunk è stilizzata e non contiene contenuti espliciti.
+
+**Q: I dati di NeonDM sono al sicuro?**  
+A: Sì! Tutto è salvato localmente nel tuo browser. Nessun dato viene inviato a server esterni. Consigliamo di esportare backup periodici delle tue campagne.
+
+**Q: Posso usare NeonDM per altri generi oltre al cyberpunk?**  
+A: Assolutamente! Anche se il design è cyberpunk, gli strumenti funzionano per qualsiasi ambientazione di gioco di ruolo.
 
 ---
 
