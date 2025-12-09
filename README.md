@@ -4,7 +4,7 @@
 
 ![Cognium Games Banner](icon-512.png)
 
-**Infiltrati nel neon: giochi di ruolo cyberpunk dove vuoi, quando vuoi.**
+**Giochi di deduzione sociale in stile cyberpunk direttamente sul tuo dispositivo - scopri traditori, identifica glitch e gestisci campagne epiche, tutto offline e gratis.**
 
 [🎮 **GIOCA ORA**](https://board-games-by-bonn.netlify.app/)    |    [📱 Installa l'App](#-installazione-come-app)
 
@@ -14,11 +14,9 @@
 
 ## 🌆 Benvenuto a Syntrael
 
-**Anno 2147 - Neo-Tokyo**
+**Anno 2147 - Neo-Tokyo.** Syntrael è una megalopoli dove il vapore industriale si mescola ai neon digitali. Le strade pulsano di vita artificiale, i droni pattugliano i cieli e ogni mente è connessa alla **Rete Neurale Globale**.
 
-Syntrael è una megalopoli dove il vapore industriale si mescola ai neon digitali. Le strade pulsano di vita artificiale, i droni pattugliano i cieli e ogni mente è connessa alla **Rete Neurale Globale**.
-
-Ma sotto la superficie scintillante si nasconde un'oscura verità: la **Macchina-Madre**, un'intelligenza artificiale corrotta, ha infiltrato la città attraverso i suoi agenti. Tra nebbie tossiche e complotti meccanici, i cittadini di Syntrael lottano per la sopravvivenza.
+Ma sotto la superficie scintillante si nasconde un'oscura verità: la **Macchina-Madre**, un'intelligenza artificiale corrotta, ha infiltrato la città. Tra nebbie tossiche e complotti meccanici, i cittadini lottano per la sopravvivenza.
 
 *Nel flusso infinito dei dati, solo uno è corrotto. Riuscirai a scovarlo... o diventerai parte del glitch?*
 
@@ -27,27 +25,17 @@ Ma sotto la superficie scintillante si nasconde un'oscura verità: la **Macchina
 ## 🎮 I Giochi
 
 ### 🌫️ Nebbie di Syntrael
-**Local Role-Playing Game | 4-16 Giocatori**
+**Gioco di Deduzione Sociale | 4-16 Giocatori**
 
 <img src="IngegneriCorrottiSyntrael.png" width="600" alt="Nebbie di Syntrael">
 
-Un gioco di deduzione sociale dove dovrai scoprire chi tra i cittadini è un **Ingegnere Corrotto** al servizio della Macchina-Madre.
+Scopri chi tra i cittadini è un **Ingegnere Corrotto** al servizio della Macchina-Madre prima che sia troppo tardi.
 
-#### 🎯 Come si Gioca
+#### 🎯 Come Funziona
 
-**Setup:**
-- Scegli se avere un narratore fisso o sorteggiato
-- Inserisci i nomi dei giocatori (4-16)
-- Il sistema assegna automaticamente i ruoli bilanciati
-
-**Obiettivi:**
-- **Cittadini:** Eliminare tutti gli Ingegneri Corrotti prima di essere sopraffatti
-- **Ingegneri Corrotti:** Eliminare i cittadini fino a prendere il controllo della città
-
-**Fasi di Gioco:**
-1. **Notte** - Gli Ingegneri Corrotti scelgono una vittima, i ruoli speciali usano le loro abilità
-2. **Giorno** - Discussione e votazione per eliminare un sospetto
-3. Si ripete fino alla vittoria di una fazione
+1. **Setup Rapido:** Scegli se avere un narratore fisso o sorteggiato, inserisci i nomi dei giocatori (4-16) e il sistema assegna automaticamente i ruoli bilanciati
+2. **Obiettivi:** I Cittadini devono eliminare tutti gli Ingegneri Corrotti, mentre questi ultimi cercano di prendere il controllo della città
+3. **Gameplay:** Alterna fasi notturne (abilità speciali e sabotaggi) e diurne (discussione e votazione) fino alla vittoria di una fazione
 
 #### 👥 I Ruoli
 
@@ -63,51 +51,36 @@ Un gioco di deduzione sociale dove dovrai scoprire chi tra i cittadini è un **I
 **Fazione Macchina-Madre:**
 - ⚙️ **Ingegnere Corrotto** - Sabota un cittadino ogni notte insieme agli altri corrotti
 
-#### ✨ Funzionalità Speciali
+#### ✨ Funzionalità
 
-- 📧 **Invio ruoli via email** - Ogni giocatore può ricevere il proprio ruolo via email
-- 📝 **Note del narratore** - Sistema integrato per tracciare eventi e morti
-- 📖 **Storia introduttiva** - Narrazione personalizzata per immergere i giocatori
-- 🔄 **Riavvio rapido** - Mantieni gli stessi giocatori per una nuova partita
-- 📚 **Guida ai ruoli** - Descrizioni dettagliate sempre accessibili
+- 📧 **Invio ruoli via email** - Ogni giocatore riceve il proprio ruolo direttamente
+- 📝 **Note del narratore** - Traccia eventi e morti durante la partita
+- 📖 **Storia introduttiva** - Narrazione immersiva per iniziare l'avventura
+- 🔄 **Riavvio rapido** - Nuova partita con gli stessi giocatori in un click
+- 📚 **Guida ai ruoli** - Descrizioni dettagliate sempre a portata di mano
 
 ---
 
 ### ⚡ Glitch Mind
-**Party Game - Deduzione | 4-12 Giocatori**
+**Party Game Veloce | 4-12 Giocatori**
 
 <img src="GlitchMind.png" width="600" alt="Glitch Mind">
 
-Un gioco di parole e deduzione dove dovrai scoprire chi ha ricevuto dati corrotti dalla Rete Neurale.
+Scopri chi ha ricevuto dati corrotti dalla Rete Neurale attraverso un gioco di parole e deduzione fulminante.
 
-#### 🎯 Come si Gioca
+#### 🎯 Come Funziona
 
-**La Missione:**
-- **Operatori Normali:** Ricevono tutti la stessa parola segreta
-- **Il Glitch:** Riceve una parola simile ma diversa
-- Obiettivo: scoprire chi è il Glitch prima che sia troppo tardi!
+**La Missione:** Gli Operatori Normali ricevono tutti la stessa parola segreta, mentre il Glitch riceve una parola simile ma diversa. Obiettivo: scoprire chi è il Glitch!
 
-**Fasi di Gioco:**
+**Gameplay in 4 Fasi:**
 
-1. **📡 Connessione**
-   - Ogni giocatore riceve la propria parola segreta
-   - Gli Operatori Normali condividono la stessa frequenza
-   - Il Glitch riceve un segnale... *distorto*
+1. **📡 Connessione** - Ogni giocatore riceve la propria parola segreta (gli Operatori Normali condividono la stessa, il Glitch riceve un segnale distorto)
 
-2. **📻 Trasmissione**
-   - A turno, ogni giocatore dice **UNA SOLA PAROLA** collegata alla propria
-   - Troppo ovvio? Ti scoprono subito
-   - Troppo vago? Sembri sospetto
-   - Trova l'equilibrio perfetto!
+2. **📻 Trasmissione** - A turno, ogni giocatore dice UNA SOLA PAROLA collegata alla propria. Troppo ovvio? Ti scoprono. Troppo vago? Sembri sospetto
 
-3. **🔍 Analisi**
-   - Discutete liberamente
-   - Osservate i pattern, cercate le incongruenze
-   - Chi ha esitato? Chi è stato troppo generico?
+3. **🔍 Analisi** - Discutete liberamente, osservate i pattern e cercate le incongruenze
 
-4. **🗳️ Isolamento**
-   - Votate chi disconnettere dal sistema
-   - Se il Glitch viene identificato, ha un'ultima chance: indovinare la parola corretta per hackerare la vittoria!
+4. **🗳️ Isolamento** - Votate chi eliminare. Se il Glitch viene scoperto, può tentare di indovinare la parola corretta per vincere!
 
 #### ⚠️ Regole della Rete
 
@@ -124,9 +97,9 @@ Un gioco di parole e deduzione dove dovrai scoprire chi ha ricevuto dati corrott
 ---
 
 ### 🎲 NeonDM
-**DM Tool - Campaign Manager | Strumento per Dungeon Master**
+**Strumento per Dungeon Master**
 
-Il tuo centro di comando cyberpunk per gestire campagne di gioco di ruolo. Organizza personaggi, luoghi, fazioni e sessioni con un'interfaccia visivamente immersiva.
+Il tuo centro di comando cyberpunk per gestire campagne di gioco di ruolo. Organizza personaggi, luoghi, fazioni e sessioni con un'interfaccia immersiva e strumenti potenti.
 
 ---
 
@@ -160,49 +133,35 @@ Cognium Games è una **Progressive Web App (PWA)** - puoi installarla sul tuo di
 
 ---
 
-## 💡 Consigli per una Partita Perfetta
+## 💡 Consigli per Giocare al Meglio
 
-### Per Nebbie di Syntrael
+### 🌫️ Nebbie di Syntrael
 
-**Setup Ideale:**
-- 🎭 **6-10 giocatori** per il miglior bilanciamento
-- 🌙 Giocate in un ambiente tranquillo dove poter discutere
-- 📱 Un solo dispositivo passato tra i giocatori per vedere i ruoli
-- ⏱️ Durata media: 30-60 minuti
+**Setup Ideale:** 6-10 giocatori, ambiente tranquillo, un solo dispositivo da passare, durata 30-60 minuti
 
-**Consigli Strategici:**
-- **Per i Cittadini:** Osservate i comportamenti, fate domande mirate, coordinate i ruoli speciali
-- **Per gli Ingegneri:** Mimetizzatevi, create dubbi, accusate altri per deviare i sospetti
-- **Per il Narratore:** Mantieni il ritmo, crea atmosfera, gestisci i tempi di discussione
+**Strategie:**
+- **Cittadini:** Osservate i comportamenti, fate domande mirate, coordinate i ruoli speciali
+- **Ingegneri:** Mimetizzatevi, create dubbi, deviate i sospetti
+- **Narratore:** Mantieni il ritmo e crea atmosfera
 
-### Per Glitch Mind
+### ⚡ Glitch Mind
 
-**Setup Ideale:**
-- 🎲 **5-8 giocatori** per partite dinamiche
-- 🗣️ Ambiente dove tutti possono sentirsi
-- 📱 Ogni giocatore guarda il proprio ruolo sul dispositivo
-- ⏱️ Durata media: 10-20 minuti per round
+**Setup Ideale:** 5-8 giocatori, ambiente dove tutti si sentono, ogni giocatore guarda il proprio ruolo, durata 10-20 minuti
 
-**Consigli Strategici:**
-- **Per gli Operatori:** Non siate troppo ovvi, ma nemmeno troppo vaghi
-- **Per il Glitch:** Ascolta attentamente le prime parole, cerca di capire il tema
-- **Trucco Pro:** Il primo giocatore ha un vantaggio (può essere vago), l'ultimo deve essere più preciso
+**Strategie:**
+- **Operatori:** Bilanciate tra ovvio e vago
+- **Glitch:** Ascolta le prime parole per capire il tema
+- **Trucco Pro:** Il primo giocatore può essere vago, l'ultimo deve essere preciso
 
----
+### 🎲 NeonDM
 
-### Per NeonDM
+**Setup Ideale:** Perfetto per campagne a medio-lungo termine (10+ sessioni), usa desktop o tablet, prepara prima e documenta dopo ogni sessione
 
-**Setup Ideale:**
-- 🎭 Perfetto per campagne a medio-lungo termine (10+ sessioni)
-- 💻 Un dispositivo per il DM (desktop o tablet consigliato)
-- 📝 Preparazione pre-sessione e documentazione post-sessione
-- ⏱️ Risparmia tempo con strumenti di generazione rapida
-
-**Consigli Strategici:**
-- **Preparazione**: Usa il sistema di note per pianificare sessioni future
-- **Durante la Sessione**: Tieni aperta la dashboard per riferimenti rapidi
-- **Post-Sessione**: Documenta eventi e cliffhanger mentre sono freschi
-- **Organizzazione**: Usa i collegamenti tra elementi (es. NPC → Fazione → Luogo)
+**Consigli:**
+- **Pre-Sessione:** Pianifica con il sistema di note
+- **Durante:** Tieni la dashboard aperta per riferimenti rapidi
+- **Post-Sessione:** Documenta eventi e cliffhanger subito
+- **Organizzazione:** Collega elementi tra loro (NPC → Fazione → Luogo)
 
 **Funzionalità Chiave:**
 
@@ -243,43 +202,26 @@ Cognium Games è una **Progressive Web App (PWA)** - puoi installarla sul tuo di
 
 ---
 
-## 🎨 Tecnologia
+## 🎨 Tecnologia & Compatibilità
 
-Cognium Games è costruito con tecnologie web moderne per garantire la migliore esperienza:
+Cognium Games è una **Progressive Web App (PWA)** moderna:
 
-- **Progressive Web App (PWA)** - Installabile e funzionante offline
-- **Responsive Design** - Perfetto su smartphone, tablet e desktop
-- **Zero Installazione** - Basta un browser, nessun download da store
-- **Privacy First** - Nessun dato personale richiesto, tutto locale sul tuo dispositivo
-- **Open Source** - Codice trasparente e modificabile
-
-**Compatibilità:**
-- ✅ Chrome/Edge (Desktop & Mobile)
-- ✅ Safari (iOS & macOS)
-- ✅ Firefox (Desktop & Mobile)
-- ✅ Qualsiasi browser moderno
+- ✅ **Installabile** - Funziona come un'app nativa
+- ✅ **Offline** - Gioca senza connessione internet
+- ✅ **Responsive** - Perfetto su smartphone, tablet e desktop
+- ✅ **Privacy First** - Nessun dato personale richiesto, tutto salvato localmente
+- ✅ **Zero Download** - Basta un browser moderno (Chrome, Safari, Firefox, Edge)
 
 ---
 
-## 🎭 Perché Cognium Games?
+## 🎭 Perché Scegliere Cognium Games?
 
-### 🆓 Completamente Gratuito
-Nessun acquisto in-app, nessun abbonamento. Solo gioco puro.
-
-### 🔒 Privacy Garantita
-Non raccogliamo dati personali. Tutto rimane sul tuo dispositivo. NeonDM salva le tue campagne localmente nel browser.
-
-### 📴 Offline Ready
-Dopo la prima visita, puoi giocare anche senza connessione internet. Perfetto per sessioni in luoghi senza WiFi.
-
-### 🎨 Design Immersivo
-Grafica cyberpunk curata, animazioni fluide, esperienza coinvolgente.
-
-### 🔄 Sempre Aggiornato
-Nuove funzionalità e miglioramenti senza dover scaricare aggiornamenti.
-
-### 👥 Perfetto per Gruppi
-Ideale per serate con amici, team building, feste, eventi.
+- 🆓 **Completamente Gratuito** - Nessun acquisto, nessun abbonamento
+- 🔒 **Privacy Garantita** - Zero raccolta dati, tutto salvato localmente sul tuo dispositivo
+- 📴 **Funziona Offline** - Gioca ovunque, anche senza internet
+- 🎨 **Design Immersivo** - Grafica cyberpunk curata con animazioni fluide
+- 🔄 **Sempre Aggiornato** - Nuove funzionalità automatiche senza download
+- 👥 **Perfetto per Gruppi** - Ideale per serate con amici, feste ed eventi
 
 ---
 
@@ -302,34 +244,31 @@ Ideale per serate con amici, team building, feste, eventi.
 
 ---
 
-## ❓ FAQ
+## ❓ Domande Frequenti
 
-**Q: Serve registrazione?**  
-A: No! Basta aprire il link e iniziare a giocare.
+**Serve registrazione?**  
+No, basta aprire il link e iniziare a giocare.
 
-**Q: Funziona offline?**  
-A: Sì, dopo la prima visita puoi giocare senza internet.
+**Funziona offline?**  
+Sì, dopo la prima visita puoi giocare senza internet.
 
-**Q: Quanti dispositivi servono?**  
-A: Per Nebbie di Syntrael e Glitch Mind: uno solo! Si passa il dispositivo tra i giocatori. Per NeonDM: uno per il Dungeon Master.
+**Quanti dispositivi servono?**  
+Uno solo per Nebbie di Syntrael e Glitch Mind (si passa tra i giocatori). Uno per il DM per NeonDM.
 
-**Q: Posso giocare da solo?**  
-A: Nebbie di Syntrael e Glitch Mind sono giochi sociali che richiedono almeno 4 giocatori. NeonDM è uno strumento per DM utilizzabile individualmente.
+**Posso giocare da solo?**  
+Nebbie di Syntrael e Glitch Mind richiedono almeno 4 giocatori. NeonDM è uno strumento per DM utilizzabile individualmente.
 
-**Q: È disponibile in altre lingue?**  
-A: Attualmente solo in italiano, ma altre lingue potrebbero arrivare!
+**È sicuro per bambini?**  
+Sì, l'ambientazione cyberpunk è stilizzata senza contenuti espliciti.
 
-**Q: Posso suggerire nuove funzionalità?**  
-A: Assolutamente! Scrivimi su [andreabonacci95@protonmail.com](mailto:andreabonacci95@protonmail.com).
+**I dati di NeonDM sono al sicuro?**  
+Tutto è salvato localmente nel browser, nessun dato viene inviato online. Consigliamo backup periodici.
 
-**Q: È sicuro per bambini?**  
-A: Sì, i giochi sono adatti a tutte le età. L'ambientazione cyberpunk è stilizzata e non contiene contenuti espliciti.
+**Posso usare NeonDM per altri generi?**  
+Assolutamente! Gli strumenti funzionano per qualsiasi ambientazione di gioco di ruolo.
 
-**Q: I dati di NeonDM sono al sicuro?**  
-A: Sì! Tutto è salvato localmente nel tuo browser. Nessun dato viene inviato a server esterni. Consigliamo di esportare backup periodici delle tue campagne.
-
-**Q: Posso usare NeonDM per altri generi oltre al cyberpunk?**  
-A: Assolutamente! Anche se il design è cyberpunk, gli strumenti funzionano per qualsiasi ambientazione di gioco di ruolo.
+**Posso suggerire funzionalità?**  
+Certo! Scrivimi su [andreabonacci95@protonmail.com](mailto:andreabonacci95@protonmail.com).
 
 ---
 
